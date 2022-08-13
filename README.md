@@ -1,10 +1,10 @@
-# Restaurant Project
+# Plant Home Page
 
 ### `Author` : **Rushikesh Dhanawade**
 
 Made with ❤ in india
 
-This is the User-Interface of Landing page of a Restaurant website designed fully with HTML and CSS. The Landing page contains:
+This is the User-Interface of Plant Home Page designed fully with HTML and CSS. The Landing page contains:
 
 - Nabar
 - Main Section
